@@ -1,0 +1,16 @@
+# local tool/credential folders — never commit
+~/
+.google-mcp/
+.playwright-mcp/
+
+# dependencies & build output
+node_modules/
+app/dist/
+
+# editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
